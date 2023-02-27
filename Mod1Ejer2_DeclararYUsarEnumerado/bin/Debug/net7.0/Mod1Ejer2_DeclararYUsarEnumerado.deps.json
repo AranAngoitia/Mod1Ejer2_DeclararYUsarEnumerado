@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Mod1Ejer2_DeclararYUsarEnumerado/1.0.0": {
+        "runtime": {
+          "Mod1Ejer2_DeclararYUsarEnumerado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mod1Ejer2_DeclararYUsarEnumerado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

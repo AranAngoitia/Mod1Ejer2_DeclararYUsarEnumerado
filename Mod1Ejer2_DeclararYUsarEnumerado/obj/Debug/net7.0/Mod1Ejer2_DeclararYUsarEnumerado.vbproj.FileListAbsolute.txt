@@ -1,0 +1,15 @@
+C:\Users\aango\source\repos\Mod1Ejer2_DeclararYUsarEnumerado\Mod1Ejer2_DeclararYUsarEnumerado\bin\Debug\net7.0\Mod1Ejer2_DeclararYUsarEnumerado.exe
+C:\Users\aango\source\repos\Mod1Ejer2_DeclararYUsarEnumerado\Mod1Ejer2_DeclararYUsarEnumerado\bin\Debug\net7.0\Mod1Ejer2_DeclararYUsarEnumerado.deps.json
+C:\Users\aango\source\repos\Mod1Ejer2_DeclararYUsarEnumerado\Mod1Ejer2_DeclararYUsarEnumerado\bin\Debug\net7.0\Mod1Ejer2_DeclararYUsarEnumerado.runtimeconfig.json
+C:\Users\aango\source\repos\Mod1Ejer2_DeclararYUsarEnumerado\Mod1Ejer2_DeclararYUsarEnumerado\bin\Debug\net7.0\Mod1Ejer2_DeclararYUsarEnumerado.dll
+C:\Users\aango\source\repos\Mod1Ejer2_DeclararYUsarEnumerado\Mod1Ejer2_DeclararYUsarEnumerado\bin\Debug\net7.0\Mod1Ejer2_DeclararYUsarEnumerado.pdb
+C:\Users\aango\source\repos\Mod1Ejer2_DeclararYUsarEnumerado\Mod1Ejer2_DeclararYUsarEnumerado\obj\Debug\net7.0\Mod1Ejer2_DeclararYUsarEnumerado.vbproj.AssemblyReference.cache
+C:\Users\aango\source\repos\Mod1Ejer2_DeclararYUsarEnumerado\Mod1Ejer2_DeclararYUsarEnumerado\obj\Debug\net7.0\Mod1Ejer2_DeclararYUsarEnumerado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aango\source\repos\Mod1Ejer2_DeclararYUsarEnumerado\Mod1Ejer2_DeclararYUsarEnumerado\obj\Debug\net7.0\Mod1Ejer2_DeclararYUsarEnumerado.AssemblyInfoInputs.cache
+C:\Users\aango\source\repos\Mod1Ejer2_DeclararYUsarEnumerado\Mod1Ejer2_DeclararYUsarEnumerado\obj\Debug\net7.0\Mod1Ejer2_DeclararYUsarEnumerado.AssemblyInfo.vb
+C:\Users\aango\source\repos\Mod1Ejer2_DeclararYUsarEnumerado\Mod1Ejer2_DeclararYUsarEnumerado\obj\Debug\net7.0\Mod1Ejer2_DeclararYUsarEnumerado.vbproj.CoreCompileInputs.cache
+C:\Users\aango\source\repos\Mod1Ejer2_DeclararYUsarEnumerado\Mod1Ejer2_DeclararYUsarEnumerado\obj\Debug\net7.0\Mod1Ejer2_DeclararYUsarEnumerado.dll
+C:\Users\aango\source\repos\Mod1Ejer2_DeclararYUsarEnumerado\Mod1Ejer2_DeclararYUsarEnumerado\obj\Debug\net7.0\refint\Mod1Ejer2_DeclararYUsarEnumerado.dll
+C:\Users\aango\source\repos\Mod1Ejer2_DeclararYUsarEnumerado\Mod1Ejer2_DeclararYUsarEnumerado\obj\Debug\net7.0\Mod1Ejer2_DeclararYUsarEnumerado.pdb
+C:\Users\aango\source\repos\Mod1Ejer2_DeclararYUsarEnumerado\Mod1Ejer2_DeclararYUsarEnumerado\obj\Debug\net7.0\Mod1Ejer2_DeclararYUsarEnumerado.genruntimeconfig.cache
+C:\Users\aango\source\repos\Mod1Ejer2_DeclararYUsarEnumerado\Mod1Ejer2_DeclararYUsarEnumerado\obj\Debug\net7.0\ref\Mod1Ejer2_DeclararYUsarEnumerado.dll
